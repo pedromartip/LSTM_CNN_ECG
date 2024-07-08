@@ -1,0 +1,6 @@
+Class,F1-Score,Support
+Sinus Bradycardia,0.9640347250930137,9464.0
+Sinus Rhythm,0.922254819782062,4719.0
+Sinus Tachycardia,0.8702482816664329,3222.0
+Supraventricular Tachycardia,0.8370535714285714,397.0
+Sinus Irregularity,0.7325428194993412,770.0

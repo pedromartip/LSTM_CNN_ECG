@@ -1,0 +1,40 @@
+ECG Classification Model Evaluation Summary
+==========================================
+
+Total number of classes: 76
+Total number of samples: 27033.0
+
+Overall Performance Metrics:
+Average Test Accuracy: 0.8074 (+/- 0.0045)
+Average Top-1 Accuracy: 0.8074 (+/- 0.0045)
+Average Top-3 Accuracy: 0.9353 (+/- 0.0035)
+Average Top-5 Accuracy: 0.9602 (+/- 0.0021)
+
+Top 5 Performing Classes (by F1-Score):
+                       Class  F1-Score  Support
+           Sinus Bradycardia  0.964035   9464.0
+                Sinus Rhythm  0.922255   4719.0
+           Sinus Tachycardia  0.870248   3222.0
+Supraventricular Tachycardia  0.837054    397.0
+          Sinus Irregularity  0.732543    770.0
+
+Bottom 5 Performing Classes (by F1-Score):
+                     Class  F1-Score  Support
+       Atrial Fibrillation       0.0   1067.0
+    junctional escape beat       0.0     12.0
+left ventricle hypertrophy       0.0     25.0
+     PR interval extension       0.0     21.0
+       Unknown (426627000)       0.0      2.0
+
+Performance Summary Statistics:
+       Precision     Recall   F1-Score      Support
+count  76.000000  76.000000  76.000000    76.000000
+mean    0.174751   0.152120   0.144618   355.697368
+std     0.287627   0.311269   0.278120  1300.210014
+min     0.000000   0.000000   0.000000     1.000000
+25%     0.000000   0.000000   0.000000     3.750000
+50%     0.000000   0.000000   0.000000    22.000000
+75%     0.418222   0.050485   0.090667    86.000000
+max     0.943366   0.985630   0.964035  9464.000000
+
+Note: Detailed results, including confusion matrices and various plots, can be found in the respective files within this results folder.

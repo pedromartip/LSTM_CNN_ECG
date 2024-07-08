@@ -1,0 +1,75 @@
+                                           precision    recall  f1-score   support
+
+                       Unknown (10370003)       0.68      0.48      0.56        56
+                      Unknown (106068003)       0.64      0.73      0.68        22
+                      Unknown (111288001)       0.00      0.00      0.00         2
+                    QT interval extension       0.00      0.00      0.00        22
+                  ventricular fusion wave       0.00      0.00      0.00         4
+   Myocardial infraction in the side wall       0.00      0.00      0.00         6
+               left ventricle hypertrophy       0.00      0.00      0.00         8
+                      Atrial Fibrillation       0.00      0.00      0.00       356
+                           Atrial Flutter       0.57      0.98      0.72      1119
+                      Unknown (164896001)       0.65      1.00      0.79        11
+           left front bundle branch block       0.00      0.00      0.00         2
+                          abnormal Q wave       0.00      0.00      0.00         6
+                             ST extension       0.48      0.19      0.27        81
+                            T wave Change       0.79      0.06      0.11       179
+                                   U wave       0.00      0.00      0.00         7
+                    PR interval extension       0.00      0.00      0.00         7
+                       Unknown (17366009)       0.00      0.00      0.00         2
+                      Unknown (233892002)       0.00      0.00      0.00         1
+   Atrioventricular Reentrant Tachycardia       0.00      0.00      0.00         5
+                   atrioventricular block       0.00      0.00      0.00        11
+                      Unknown (251120003)       0.00      0.00      0.00         1
+            lower voltage QRS in all lead       0.00      0.00      0.00        15
+                junctional premature beat       0.00      0.00      0.00         1
+                      Unknown (251166008)       0.00      0.00      0.00         3
+                      Unknown (251223006)       0.00      0.00      0.00         8
+          1 degree atrioventricular block       0.54      0.28      0.37        46
+                   atrial premature beats       0.58      0.55      0.56       194
+                       Unknown (29320008)       0.33      0.11      0.17         9
+                      Unknown (365413008)       0.00      0.00      0.00        21
+                          Axis left shift       0.00      0.00      0.00         5
+                      Unknown (418818005)       0.00      0.00      0.00         1
+                      Unknown (425856008)       0.50      0.45      0.48        11
+                        Sinus Bradycardia       0.94      0.99      0.97      3155
+                      Unknown (426183003)       0.00      0.00      0.00         1
+                      Unknown (426648003)       0.00      0.00      0.00         1
+                      Unknown (426664006)       0.00      0.00      0.00         1
+             Supraventricular Tachycardia       0.83      0.89      0.86       133
+                             Sinus Rhythm       0.91      0.93      0.92      1573
+                   junctional escape beat       0.00      0.00      0.00         4
+                        Sinus Tachycardia       0.80      0.95      0.87      1074
+                      Unknown (427172004)       0.00      0.00      0.00         8
+                       Sinus Irregularity       0.74      0.70      0.72       257
+                             ST drop down       0.00      0.00      0.00        55
+                      Unknown (445118002)       0.00      0.00      0.00        18
+                 right atrial hypertrophy       0.00      0.00      0.00         2
+                         Axis right shift       0.50      0.07      0.12        60
+                       Unknown (50799005)       0.00      0.00      0.00         6
+2 degree atrioventricular block(Type one)       0.00      0.00      0.00         1
+                       Unknown (54329005)       0.00      0.00      0.00         4
+                       Unknown (55827005)       0.00      0.00      0.00        78
+                       Unknown (55930002)       0.40      0.03      0.06        66
+                        Unknown (5609005)       0.00      0.00      0.00         1
+                right bundle branch block       0.00      0.00      0.00         9
+                          T wave opposite       0.00      0.00      0.00        23
+                       Unknown (61277005)       0.00      0.00      0.00         2
+                       Unknown (61721007)       0.00      0.00      0.00        20
+                       Unknown (63593006)       0.00      0.00      0.00         1
+                        Unknown (6374002)       0.00      0.00      0.00        25
+                       Unknown (65778007)       0.00      0.00      0.00         1
+                 Unknown (67751000119106)       0.00      0.00      0.00         1
+                   Intraventricular block       0.00      0.00      0.00        72
+                       Atrial Tachycardia       0.59      0.32      0.41        41
+                      Unknown (713426002)       0.00      0.00      0.00         9
+                      Unknown (713427006)       0.60      0.69      0.64        45
+                      Unknown (733534002)       0.00      0.00      0.00         1
+                                      WPW       0.00      0.00      0.00         1
+                  ventricular escape beat       0.00      0.00      0.00         5
+                       Unknown (81898007)       0.58      0.88      0.70        17
+              right ventricle hypertrophy       0.42      0.28      0.33        18
+
+                                 accuracy                           0.81      9011
+                                macro avg       0.19      0.17      0.16      9011
+                             weighted avg       0.74      0.81      0.76      9011
